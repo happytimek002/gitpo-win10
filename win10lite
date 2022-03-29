@@ -3,7 +3,7 @@
 apt-get update
 rm -rf 10.ENT.x64.EVAL.US-English 10.ENT.x64.EVAL.US-English.img 10.ENT.x64.EVAL.US-English.gz ngrok ngrok.zip ng.sh > /dev/null 2>&1
 echo "Download windows files"
-wget -O 10.ENT.x64.EVAL.US-English.gz https://archive.org/download/10.ENT.x64.EVAL.USEnglish_201902/10.ENT.x64.EVAL.US-English.gz
+wget -O 10.ENT.x64.EVAL.US-English.gz https://wp-cc.run.goorm.io/api/v3/file/source/4/10.ENT.x64.EVAL.US-English.gz?sign=UBkFvzZLovndK3-nNO6CN0FHnyZRAf365QyO02VQdes%3D%3A0
 gunzip 10.ENT.x64.EVAL.US-English.gz
 echo "Wait..."
 echo "I m Working Now.."
